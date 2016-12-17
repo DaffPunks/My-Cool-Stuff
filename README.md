@@ -3,7 +3,7 @@
 Ссылки на крутые рессурсы, туториалы и тд. Список регулярно пополняется
 
 ##Содержание
-* [Верстка](README.md#web-develop)
+* [Web-develop](README.md#web-develop)
 * [CSS](README.md#html/css)
 * [JavaScript](README.md#javascript)
   * [React](README.md#react)
