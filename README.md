@@ -93,4 +93,3 @@
 ## Git
 * [LearnGitBranching — интерактивный туториал по Git](http://learngitbranching.js.org/)
 * [17 приемов работы с git, о которых вы могли не знать](http://theasder.github.io/tools/2016/06/03/git-hot-tips.html)
-* [TinyPNG — отличный сервис для сжатия изображений в форматах .png и .jpg](https://tinypng.com/)
